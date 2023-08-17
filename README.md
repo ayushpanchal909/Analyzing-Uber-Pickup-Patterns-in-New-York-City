@@ -1,5 +1,4 @@
-## Analyzing Uber Pickup Patterns in New York City
-
+## 
 In my project, I worked with Uber datasets that were stored in CSV files. The first step was to import these datasets. Next, I focused on cleaning the data. This involved removing duplicate entries and dealing with any missing values. Once the data was clean, I proceeded with data preparation and analysis.
 
 I started by looking at which months had the highest number of Uber pickups in New York City. I represented this information visually using a bar graph. Additionally, I examined the number of pickups on each weekday for every month. This helped me understand the patterns of Uber pickups over different days.
