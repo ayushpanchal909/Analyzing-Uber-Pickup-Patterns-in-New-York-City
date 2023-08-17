@@ -24,5 +24,5 @@ In conclusion, my project involved importing Uber datasets from CSV files, clean
 
 >What are the peak hours during each weekday for Uber pickups in New York City, and how does the heatmap reveal variations in pickup trends across different days and hours?
 
-### Conclusion and presentation of Analysi
+### Conclusion and presentation of Analysis
 
