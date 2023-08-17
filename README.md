@@ -26,3 +26,24 @@ In conclusion, my project involved importing Uber datasets from CSV files, clean
 
 ### Conclusion and presentation of Analysis
 
+<img width="356" alt="1" src="https://github.com/ayushpanchal909/Uber-Analysis/assets/142341609/b7a3b26f-1e7d-4ccf-a870-0e1064816f03">
+<br>
+<br>
+<img width="395" alt="2" src="https://github.com/ayushpanchal909/Uber-Analysis/assets/142341609/0eabe111-08ea-43e6-bb09-9f2bfdf34a1b">
+<br>
+The data reveals intriguing insights into Uber pickup patterns in New York City. Saturdays in May and June exhibit the highest demand, reaching 3519 and 3037 pickups respectively, showcasing a weekend surge. Interestingly, May sees the highest overall pickups with a peak of 3262, while Sundays show the lowest average demand. Tuesdays in June record an unexpected peak at 3187, signifying a midweek anomaly. This comprehensive analysis of weekdays and months highlights dynamic trends in the city's Uber pickups, aiding in efficient resource allocation and strategic planning.
+<br>
+<br>
+<img width="434" alt="3" src="https://github.com/ayushpanchal909/Uber-Analysis/assets/142341609/d9c621a3-9b51-4b24-b42c-7c8c8e886661">
+<br>
+The dataset exhibits the hourly distribution of a taxi service's request count. On average, there are 595 requests per hour, with the most significant demand around midday and early evening. The variability is considerable, with a minimum of 62 requests at the lowest and 1291 at the peak, indicating the service's dynamic usage patterns.
+<br>
+<br>
+<img width="546" alt="4" src="https://github.com/ayushpanchal909/Uber-Analysis/assets/142341609/b73d64dd-8465-4e1b-a1ae-82b17339cd49">
+<br>
+<img width="700" alt="5" src="https://github.com/ayushpanchal909/Uber-Analysis/assets/142341609/8df5a24c-69c0-4d1a-89e7-d1912c2ee361">
+<br>
+<br>
+The heatmap portrays the interplay between weekdays and hours for Uber pickups. Observations reveal weekday patterns. Midweek, Wednesday stands out with consistent high demand from morning to early evening, suggesting steady usage. Fridays showcase a spike during the afternoon, perhaps due to weekend preparations. Weekends display a more relaxed yet persistent demand. Hours, like 6 PM on weekdays, exhibit heightened activity, hinting at post-work travel. Despite variations, the morning hours generally exhibit low demand. This analysis emphasizes the interdependence of weekdays and hours on Uber pickups, allowing for targeted strategies to optimize resource allocation and improve user experience.
+
+
