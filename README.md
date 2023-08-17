@@ -1,1 +1,3 @@
-# Uber-Analysis
+## Uber-Analysis
+
+In this project, I worked with Uber datasets imported from CSV files. I cleaned up Didi data by removing duplicates and handling empty values. After managing all the files, I focused on data preparation and analysis. For instance, I identified the month with the highest pickups in New York City and visualized it using a bar graph. Additionally, I examined Uber pickups for each weekday in every month. I further investigated the hourly rush across all days in NYC and visualized trends with a point plot. By analyzing the data, I determined the most active base numbers of vehicles and depicted this through a box plot distribution chart. To understand rush hours and weekdays comprehensively, I constructed a heatmap for paired analysis. This project aims to extract insights from ride-sharing data, helping to make informed decisions and understand patterns in New York City's transportation landscape.
